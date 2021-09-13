@@ -1,5 +1,3 @@
-#Code rewritten from Coursera Deep Learning Specialization - Neural Networks and Deep Learning, Week 2 Assignment
-
 import cPickle
 import os
 import numpy as np
